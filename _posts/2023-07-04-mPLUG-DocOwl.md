@@ -1,0 +1,38 @@
+---
+title: mPLUG-DocOwl
+author: Anonym
+date: 2023-07-04 00:00:00 +0800
+categories: [Arxiv]
+tags: [MM-LLMs]
+math: true
+pin: false
+---
+
+- Paper: [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499)
+- [GitHub Link](https://github.com/X-PLUG/mPLUG-DocOwl)
+- Publisher: `Arxiv`
+- Author Affiliation: `Alibaba Group`
+- Functional Division
+  + [x] Understanding
+  + [ ] Generation
+- Design Division
+  + [ ] Tool-using
+  + [x] End-to-end
+- Input Modalities $\rightarrow$ Output Modalities <br />(I: Image, V: Video, A: Audio, 3D: Point Cloud, T: Text, I<sub>D</sub>: Document understanding, I<sub>B</sub>: Output bounding box, I<sub>M</sub>: Output segmentation mask, I<sub>R</sub>: Output retrieved images)
+  + I<sub>D</sub>+T $\rightarrow$ T
+- Model Architecture <br />(Input $\rightarrow$ Modality Encoder $\rightarrow$ Input Projector $\rightarrow$ LLM Backbone $\rightarrow$ Output Projector $\rightarrow$ Modality Generator $\rightarrow$ Output)
+  + Modality Encoder
+    * `I: CLIP ViT-L/14`
+  + Input Projector
+    * `Cross-attention`
+  + LLM Backbone
+    * `LLaMA-7B`
+  + Output Projector
+    * `None`
+  + Modality Generator
+    * `None`
+- Datasets Scale
+  + Pre-training Stage
+    * `Not report`
+  + Instruction-tuning Stage
+    * `Not report`

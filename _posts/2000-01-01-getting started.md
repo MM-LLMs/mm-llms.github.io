@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: ✍️Quick Start
 author: Anonym
 date: 2001-01-01 00:00:00 +0800
 categories: [tutorials]

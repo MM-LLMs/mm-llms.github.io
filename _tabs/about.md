@@ -6,7 +6,7 @@ order: 4
  
 
 ## Our Mission
-We build this website to thoroughly survey the direction of MM-LLMS.
+We build this website to thoroughly survey the direction of MM-LLMs.
 
 ---
 

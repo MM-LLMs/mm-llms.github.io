@@ -2,7 +2,7 @@
 title: InstructBLIP’s IT
 author: Anonym
 date: 2023-05-11 00:00:00 +0800
-categories: [NIPS 2023]
+categories: [NeurIPS 2023]
 tags: [IT Dataset]
 math: true
 pin: false
@@ -10,7 +10,7 @@ pin: false
 
 - Paper: [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
 - [GitHub Link](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
-- Publisher: `NIPS 2023`
+- Publisher: `NeurIPS 2023`
 - Author Affiliation: `Salesforce Research`
 - Type
   + [x] SFT

@@ -10,7 +10,7 @@ pin: false
 
 - Paper: [DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
 - [GitHub Link](https://github.com/deepseek-ai/DeepSeek-VL)
-- Publisher: `Arxiv`
+- Publisher: `Arxiv` 
 - Author Affiliation: `DeepSeek-AI`
 - Functional Division
   + [x] Understanding

@@ -24,7 +24,9 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    ## see https://github.com/actions/runner-images/issues/10636 
+    ## After 2025.01.17, maybe there have some changes??
 
     steps:
       - name: Checkout

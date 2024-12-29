@@ -9,7 +9,7 @@ pin: false
 ---
 
 - Paper: [VideoLLM-online: Online Video Large Language Model for Streaming Video](https://arxiv.org/pdf/2406.11816)
-- [Project Link](showlab.github.io/videollm-online)
+- [Project Link](https://showlab.github.io/videollm-online)
 - Publisher: `CVPR 2024`
 - Author Affiliation: `National University of Singapore`
 - Functional Division

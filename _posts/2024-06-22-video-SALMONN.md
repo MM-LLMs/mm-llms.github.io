@@ -1,17 +1,17 @@
 ---
-title: Cobra
+title: video-SALMONN
 author: Anonym
-date: 2024-03-21 00:00:00 +0800
-categories: [Arxiv]
+date: 2024-06-22 00:00:00 +0800
+categories: [ICML 2024]
 tags: [MM-LLMs]
 math: true
 pin: false
 ---
 
-- Paper: [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)
-- [Project Link](https://sites.google.com/view/cobravlm)
-- Publisher: `Arxiv`
-- Author Affiliation: `Westlake University`
+- Paper: [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/pdf/2406.15704)
+- [Project Link](https://github.com/bytedance/SALMONN/)
+- Publisher: `ICML 2024`
+- Author Affiliation: `Tsinghua University`
 - Functional Division
   + [x] Understanding
   + [ ] Generation
@@ -19,4 +19,4 @@ pin: false
   + [ ] Tool-using
   + [x] End-to-end
 - Input Modalities $\rightarrow$ Output Modalities <br />(I: Image, V: Video, A: Audio, 3D: Point Cloud, T: Text, I<sub>D</sub>: Document understanding, I<sub>B</sub>: Output bounding box, I<sub>M</sub>: Output segmentation mask, I<sub>R</sub>: Output retrieved images)
-  + I+T $\rightarrow$ T
+  + I+A+T $\rightarrow$ T

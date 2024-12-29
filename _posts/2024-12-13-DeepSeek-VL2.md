@@ -8,8 +8,7 @@ math: true
 pin: false
 ---
 
-- Paper: [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models
-for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302)
+- Paper: [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302)
 - [Project Link](https://github.com/deepseek-ai/DeepSeek-VL2)
 - Publisher: `Arxiv`
 - Author Affiliation: `DeepSeek-AI`

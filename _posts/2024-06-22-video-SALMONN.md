@@ -8,7 +8,7 @@ math: true
 pin: false
 ---
 
-- Paper: [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/pdf/2406.15704)
+- Paper: [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/pdf/2406.15704)
 - [Project Link](https://github.com/bytedance/SALMONN/)
 - Publisher: `ICML 2024`
 - Author Affiliation: `Tsinghua University`
